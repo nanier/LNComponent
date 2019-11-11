@@ -1,0 +1,6 @@
+framework module LNComponent {
+  umbrella header "LNComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

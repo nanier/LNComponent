@@ -1,0 +1,16 @@
+PODS:
+  - LNComponent (0.1.0)
+
+DEPENDENCIES:
+  - LNComponent (from `../`)
+
+EXTERNAL SOURCES:
+  LNComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LNComponent: 106594be136e392a72f442494eb0bcc79b285a3e
+
+PODFILE CHECKSUM: 698e06a30f6734aa3d8a6aaa62c0858798ef8458
+
+COCOAPODS: 1.8.0.beta.2

@@ -22,7 +22,7 @@ pod 'LNComponent'
 
 ## Author
 
-nanier, lina@sogou-inc.com
+nanier
 
 ## License
 
