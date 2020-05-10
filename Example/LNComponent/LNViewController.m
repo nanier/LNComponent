@@ -20,8 +20,21 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void)viewWillAppear:(BOOL)animated {
+    self.view.backgroundColor = [UIColor redColor];
+    [super viewWillAppear:animated];
+}
+
 - (void)viewDidAppear:(BOOL)animated {
+    self.view.backgroundColor = [UIColor cyanColor];
     [super viewDidAppear:animated];
+}
+
+- (void)test1 {
+    
+}
+
+- (void)test2 {
 }
 
 - (void)didReceiveMemoryWarning
