@@ -34,7 +34,7 @@
     [super viewDidDisappear:animated];
 }
 
-- (void)master1 {
+- (void)master2 {
     
 }
 
