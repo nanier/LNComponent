@@ -30,10 +30,6 @@
     [super viewDidAppear:animated];
 }
 
-- (void)dev1 {
-    
-}
-
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
