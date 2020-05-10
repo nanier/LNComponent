@@ -34,6 +34,10 @@
     [super viewDidDisappear:animated];
 }
 
+- (void)master1 {
+    
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
