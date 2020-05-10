@@ -38,10 +38,6 @@
     
 }
 
-- (void)master2 {
-    
-}
-
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
