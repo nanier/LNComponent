@@ -25,6 +25,7 @@
 }
 
 - (void)viewDidAppear:(BOOL)animated {
+    self.view.backgroundColor = [UIColor cyanColor];
     [super viewDidAppear:animated];
 }
 
